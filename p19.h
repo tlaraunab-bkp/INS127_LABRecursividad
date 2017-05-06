@@ -43,9 +43,9 @@ Lista* sumaCCreaLista(){
     agregarNodoLista(l, sumaCCreaNodo(2));
     agregarNodoLista(l, sumaCCreaNodo(3));
     agregarNodoLista(l, sumaCCreaNodo(4));
-    //agregarNodoLista(l, sumaCCreaNodo(5));
-    //agregarNodoLista(l, sumaCCreaNodo(2));
-    //agregarNodoLista(l, sumaCCreaNodo(9));
+    agregarNodoLista(l, sumaCCreaNodo(5));
+    agregarNodoLista(l, sumaCCreaNodo(6));
+    agregarNodoLista(l, sumaCCreaNodo(7));
     return l;
 }
 
